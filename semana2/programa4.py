@@ -2,7 +2,7 @@
        Programa4
        Nombre: Armando CS
        Fecha: 26/01/2023
-       Descripcion: 
+       Descripcion: Acceso a variables por posición y nombre
 """
 numero1 = 10
 numero2 = 5
