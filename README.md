@@ -10,3 +10,4 @@
 |4.|programa3.py|Print y Operaciones Aritmétcas|
 |5.|programa4.py|Acceso a variables por posición y nombre|
 |6.|programa5.py|Uso del comando input|
+|7.|programa6.py|Área y Perímetro de un Triangulo|
