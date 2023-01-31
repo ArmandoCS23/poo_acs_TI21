@@ -9,10 +9,10 @@ l1 = input("Lado 1: ")
 l2 = input("Lado 2: ")
 l3 = input("Lado 3: ")
 perimetro = int(l1) + int(l2) + int(l3)
-print("el resultado del perimetro es: ",perimetro)
-
+print("el resultado del perimetro de un triangulo es: ",perimetro)
+print()
 print("Ingrese los datos para calcular el área")
 B = input("Base : ")
 H = input("Altura : ")
 area = int(B) * int(H) / 2
-print("el resultado del área es: ",area)
+print("el resultado del área de un triangulo es: ",area)
