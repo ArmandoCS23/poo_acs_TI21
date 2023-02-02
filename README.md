@@ -12,3 +12,4 @@
 |6.|programa5.py|Uso del comando input|
 |7.|programa6.py|Área y Perímetro de un Triangulo|
 |8.|programa7.py|Área y Perímetro de un Círculo y un Cuadrado|
+|9.|programa8.py|Condición IF|
