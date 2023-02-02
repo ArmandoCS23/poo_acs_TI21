@@ -13,3 +13,5 @@
 |7.|programa6.py|Área y Perímetro de un Triangulo|
 |8.|programa7.py|Área y Perímetro de un Círculo y un Cuadrado|
 |9.|programa8.py|Condición IF|
+|10.|programa9.py| Realizar un programa en Python que compare 2 números enteros e imprima el 
+       mayor de ellos, y si son iguales imprima None|
