@@ -11,7 +11,7 @@ def mayor(numero1:int , numero2:int)->int | None:
     elif numero2 > numero1:
         result = numero2
     return result                                                               
-print()    
+print()  # Imprime un espacio  
 print(mayor(2,1)) #2
 print(mayor(1,2)) #2
 print(mayor(2,2)) #None
